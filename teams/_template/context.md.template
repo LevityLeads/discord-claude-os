@@ -1,0 +1,23 @@
+# {{PROJECT_NAME}} -- Context
+
+## What Is It
+
+{{One paragraph. What this project is, who it's for, why it exists.}}
+
+## Key People
+
+{{Names, roles, contact info for people involved in this project.}}
+
+## Current Priorities
+
+1. {{Priority 1}}
+2. {{Priority 2}}
+3. {{Priority 3}}
+
+## Repos
+
+{{GitHub repos, deployment URLs, key infrastructure.}}
+
+## Technical Context
+
+{{Stack, architecture, deployment setup, anything a new session needs to know.}}
